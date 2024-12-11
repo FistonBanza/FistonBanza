@@ -1,4 +1,6 @@
-Hi, I’m Fiston! I'm passionate about data and I love learning new things. I’m currently learning R Advanced analytics on Coursera.
+Hi there, 
+
+I’m Fiston! I'm passionate about data and I love learning new things. I’m currently learning R Advanced analytics on Coursera.
 
 ✨ About me in 30 seconds ✨
 
